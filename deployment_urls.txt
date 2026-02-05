@@ -1,0 +1,2 @@
+Gradio (HF Spaces): <paste URL here>
+Streamlit (Streamlit Cloud): <paste URL here>

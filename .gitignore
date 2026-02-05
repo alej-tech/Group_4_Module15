@@ -1,0 +1,16 @@
+.env
+*.env
+.streamlit/secrets.toml
+
+mod15_env/
+.venv/
+venv/
+
+__pycache__/
+*.pyc
+
+.vscode/
+.DS_Store
+
+*.log
+.ipynb_checkpoints/

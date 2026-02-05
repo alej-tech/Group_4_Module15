@@ -1,0 +1,28 @@
+# Module 15 - Group 4: Trustworthy AI Explainer Dashboard
+# Requirements for both Gradio and Streamlit applications
+
+# UI Frameworks
+gradio>=4.0.0
+streamlit>=1.28.0
+
+# LLM Integration (choose based on your needs)
+openai>=1.0.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+plotly>=5.17.0
+matplotlib>=3.7.0
+
+# Explainability
+shap>=0.42.0
+lime>=0.2.0.1
+
+# Embeddings (for similarity/hallucination detection)
+sentence-transformers>=2.2.0
+
+# Utilities
+python-dotenv>=1.0.0  # For environment variables
+
