@@ -109,8 +109,7 @@ Secrets are managed via **App Settings → Secrets** using TOML format:
 ```toml
 OPENAI_API_KEY = "your-api-key"
 OPENAI_MODEL = "gpt-4o-mini"
-
-## Local Execution
+```
 
 ### 1. Install dependencies
 
