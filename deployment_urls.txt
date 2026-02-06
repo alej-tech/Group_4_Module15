@@ -1,2 +1,18 @@
-Gradio (HF Spaces): <paste URL here>
-Streamlit (Streamlit Cloud): <paste URL here>
+Team: Group_4
+
+Institution:
+CITEDI
+
+GitHub Repository:
+https://github.com/alej-tech/Group_4_Module15
+
+Gradio (Hugging Face Spaces):
+https://huggingface.co/spaces/alej-hugg/group-4-module15-gradio
+
+Streamlit (Streamlit Community Cloud):
+https://group-4-module15-strmlit.streamlit.app/
+
+Deployment date:
+05 Feb 2026
+
+
